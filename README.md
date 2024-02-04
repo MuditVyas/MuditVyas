@@ -1,4 +1,4 @@
-![IT Consultant Business Linkedin Banner (5)](https://www.canva.com/design/DAF71uEEgrs/gaJfGlyU3lf5DlK54Vl9oA/view?utm_content=DAF71uEEgrs&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![My poster](Github_banner.png)
 
 <h1 align="center">Hi 👋🏼, I'm Mudit Vyas</h1>
 <h3 align="center">I decode data, unveil discoveries and enhance strategies</h3>
