@@ -1,4 +1,4 @@
-![My poster](banner.png)
+![My poster](Banner.png)
 
 <h1 align="center">Hi 👋🏼, I'm Mudit Vyas</h1>
 <h3 align="center">I decode data, unveil discoveries and enhance strategies</h3>
